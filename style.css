@@ -82,6 +82,7 @@ img {
     width: 700px;
     margin-top: 0px;
     font-size: 0.8em;
+    width: 95%;
   }
 
   .row > div {
@@ -157,7 +158,7 @@ img {
 @media screen and (max-width: 420px) {
 
   .row {
-    width: 400px;
+    width: 95%;
     margin-top: 0px;
     font-size: 0.7em;
   }
